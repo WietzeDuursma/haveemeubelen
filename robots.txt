@@ -1,0 +1,9 @@
+User-agent: *   
+Disallow: /wp-admin/  
+Disallow: /wp-includes/
+Disallow: /kerst/
+Disallow: /old/
+Disallow: /test/
+Disallow: /havee_temp/
+Disallow: /images/
+Sitemap: http://www.haveemeubelen.nl/sitemap.xml

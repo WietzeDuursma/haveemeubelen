@@ -1,0 +1,49 @@
+*** Target Changelog ***
+
+23-10-2012 - version 1.8.16
+* Blog Settings added in theme options panel to exclude categories from displaying on the "Blog" page template. 
+
+6-10-2012 - version 1.8.15
+* No Post title test problem corrected in loop.php file.
+
+19-9-2012 - version 1.8.14
+* Translation support added for missed out text in index.php, image.php, template-blog.php, header.php and single.php file.
+
+12-9-2012 - version 1.8.13
+* No alignment no caption image test bug fixed.
+
+29-8-2012 -version 1.8.12
+ * Typography options added. Main body text font, color and weight can be changed.
+
+21-8-2012 -version 1.8.11
+ * Slider black box is set to hidden if slider text is empty.
+
+13-8-2012 -version 1.8.10
+ * Style change of #left-col and #subhead h1. Left margin removed.
+
+7-8-2012 -version 1.8.9
+ * Style change of menu. Left margin removed.
+
+2-8-2012 -version 1.8.8
+ * Filter function for wp_title added in functions.php
+
+30-7-2012 -version 1.8.7
+ * Error corrected of last update.
+
+30-7-2012 -version 1.8.6
+ * Slight code change in header.php to add menu fallback view.
+
+26-7-2012 -version 1.8.5
+ * Prefix target added to this functions of_register_js(),of_single_scripts(), of_styles() and target_small_title function removed.
+
+19-7-2012 -version 1.8.4
+ * Custom CSS -  Custom CSS option added in theme options panel to style the theme.
+
+12-7-2012 -version 1.8.3
+ * Favicon URL option escaped with esc_url for data security.
+
+6-7-2012 -version 1.8.2
+ * Favicon -  New option added in theme options panel under logo settings to add fav icon.
+
+28-6-2012 - version 1.8.1
+ * Creating Child theme bug fixed.

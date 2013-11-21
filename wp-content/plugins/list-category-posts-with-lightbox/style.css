@@ -1,0 +1,58 @@
+.lcp_catlist { list-style:none;}
+.tags {
+	font-family: Verdana, Geneva, sans-serif;
+	}
+.tags {
+	font-size: 16px;
+	color: #069;
+	font-weight: bold;
+}
+
+.hover_text {
+	font-size:10px;
+	padding:0 10px 0 5px
+}
+
+.content_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10.5px;
+	color: #333;
+	vertical-align: top;
+}
+/*.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
+}*/
+span.dropt {
+	position: relative;
+	color: #333333;
+	}
+span.dropt:hover {text-decoration: none; background: #ffffff; z-index: 6; }
+span.dropt span { border: 1px solid #ccc;
+    margin-top: 25px;
+    margin-left:25px;
+    --width: 160px;
+    height: auto;
+    -moz-box-shadow: 0 0 5px 3px #999;
+    -webkit-box-shadow: 0 0 5px 3px#999;
+     box-shadow: 0 0 5px 3px #999;
+    }
+span.dropt:hover span {left: 2%; background: #ffffff;    margin: 30px 0 0 30px;} 
+span.dropt span { position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 3px 3px 3px 3px; 
+  border-style:solid;}
+span.dropt:hover span {background: #ffffff; position: absolute;}
+.subtitle_hover {
+	line-height: 10px;}
+
+
+.attachment-thumbnail.wp-post-image {
+height: 50px;
+width: 50px;
+}

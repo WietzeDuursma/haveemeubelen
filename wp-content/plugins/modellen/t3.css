@@ -1,0 +1,31 @@
+﻿
+.thumbimg3 {
+	border: 1px #EAEAEA  solid; 
+	margin: 10px 5px; 
+	padding: 2px;
+	float: left;
+	width: 200px;
+
+}
+@media only screen and (max-width: 767px) {
+.thumbimg3 {
+	border: 1px #EAEAEA  solid; 
+	margin-left: 5px; 
+	padding: 2px;
+	float: left;
+	width: 110px;
+}
+
+
+}
+@media only screen and (max-width: 360px) {
+.thumbimg3 {
+	border: 1px #EAEAEA  solid; 
+	margin-left: 5px; 
+	padding: 2px;
+	float: left;
+	width: 65px;
+}
+
+
+}
