@@ -42,9 +42,6 @@ body {
 
 <body  leftmargin="0" topmargin="0" marginwidth="0">
 <br />
-
-
-
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="6" id="vak" style="border:1px #CCC solid;">
   <tr>
     <td valign="top"><h2>Bouw verder op 56 jaar vakmanschap<br /></h2></td>
