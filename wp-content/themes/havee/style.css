@@ -2372,16 +2372,14 @@ span#follow-box img{
 }
 
 .post {
-
-
-
 	width:30%;
 	float:left;
 	padding: 0 20px 0 0;
 	margin-bottom: 0px;
 	overflow: hidden;
-
-
+}
+.twelve .post {
+	width:23%;
 
 }
 .postz {

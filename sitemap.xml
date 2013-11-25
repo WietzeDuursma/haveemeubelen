@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/haveemeubelen/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
-<!-- generated-on="21 November 2013 19:22" -->
+<!-- generated-on="25 November 2013 19:56" -->
 <!-- Debug: Total comment count: 1 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://localhost/haveemeubelen/</loc>
-		<lastmod>2013-11-07T09:47:17+00:00</lastmod>
+		<lastmod>2013-11-25T19:56:08+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -12,7 +12,7 @@
 <!-- Debug: Priority report of postID 713: Comments: 0 of 1 = 0 points -->
 	<url>
 		<loc>http://localhost/haveemeubelen/test-model/</loc>
-		<lastmod>2013-11-07T09:47:17+00:00</lastmod>
+		<lastmod>2013-11-25T19:56:08+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>

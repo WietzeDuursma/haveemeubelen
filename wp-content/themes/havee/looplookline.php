@@ -36,7 +36,7 @@
 			<h1><a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'target' ), the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php if ( get_the_title() == '' ) { _e( '(No title)', 'target' ); } else { the_title(); } ?></a></h1>
 			<?php the_post_thumbnail( array(250,225), $attr ); ?>
 			
-			<?php the_subtitle(); ?>
+			<?php //the_subtitle(); ?>
 			</div><!--post-heading end-->
 
 			
@@ -63,7 +63,7 @@
 		
 
 			
-		<?php echo '<a class="readmore" href="' . get_permalink() . '" title="'.the_title( '', '', false ).'">'.__( 'Lees meer &raquo;', 'attitude' ).'</a>';?>	
+		<?php echo '<a class="readmore" href="' . get_permalink() . '" title="'.the_title( '', '', false ).'">'.__( 'Lees.. meer &raquo;', 'attitude' ).'</a>';?>	
     			
 			<div class="clear"></div>
 

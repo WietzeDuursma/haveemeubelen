@@ -1,4 +1,4 @@
-Archief<?php get_header(); ?>
+Archief-grithub<?php get_header(); ?>
 
 
 
@@ -71,7 +71,7 @@ Archief<?php get_header(); ?>
                                 if(is_category('showroom-outlet')){
                                 get_template_part( 'loopoutlet', 'index' );
                                 } else 
-                                if(is_category('MOL')){
+                                if(is_category('modellen-lookline')){
                                 get_template_part( 'looplookline', 'index' );
                                 } else 
                                 if(is_category('cloak')){
